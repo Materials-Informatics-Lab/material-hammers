@@ -22,7 +22,8 @@ data:
   url: >
     http://cleanenergy.molecularspace.org/
   gist:
-  - #
+  - b9e76659f8d5c5fd6e2c
+  - 5642460f061a39d1820e
   tags:
   - electronic materials
   - simulation
@@ -38,14 +39,16 @@ data:
   url: >
     http://materials.duke.edu/aflow.html
   gist:
-  - #
+  - 6b953ac03bfd6e99a3b7
   tags:
   - electronic materials
 - alias: CALPHAD
   url: >
     http://www.calphad.org
   gist:
-  - #
+  - a7b20d089d84ed845796
+  - e10da44fa023215cb28e
+  - 11730086e9834d3bd2de
   tags:
   - first principles
   - ab initio
@@ -68,6 +71,7 @@ data:
     https://www.materialsproject.org
   gist:
   - 3e12df4295926d3e0a27
+  - 4e4f8963fd3ca118fdc4
 - alias: NIST DATABASES
   url: >
     http://srdata.nist.gov/gateway/gateway?dblist=0
@@ -77,7 +81,7 @@ data:
   url: >
     www.ctcms.nist.gov/potentials/
   gist:
-  - #
+  - 6d4f0c3c4605e70e8443
   tags:
   - molecular dynamics
   - electronic potentials
