@@ -1,0 +1,13 @@
+---
+layout: page
+
+---
+
+{% assign dat = site.data['services']['data'] %}
+
+{% for reports in dat %}
+<div class="row">
+<script src="https://gist.github.com/{{reports.gist[0]}}.js"></script>
+</div>
+<hr>
+{% endfor %}
