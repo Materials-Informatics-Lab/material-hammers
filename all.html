@@ -8,7 +8,9 @@ layout: page
 {% for reports in dat %}
 <div class="row">
 {% for gist in reports.gist %}
+<div class="row">
 <script src="https://gist.github.com/{{gist}}.js"></script>
+</div>
 {% endfor %}
 </div>
 <hr>
